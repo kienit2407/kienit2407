@@ -20,7 +20,7 @@
   <image x="0" y="0" width="900" height="180"
     opacity="0.22"
     preserveAspectRatio="xMidYMid slice"
-    xlink:href="https://raw.githubusercontent.com/kienit2407/kienit2407/main/assets/images/asset1.png" />
+    xlink:href="https://github.com/kienit2407/kienit2407/blob/main/assets/images/asset1.png" />
 
   <!-- Avatar -->
   <image x="76" y="56" width="68" height="68"
