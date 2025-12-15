@@ -12,6 +12,8 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
+---
 ### 🏆 Spetific My GitHub
 <div align=center>
   <a href="#" title="Trung Kiên">
@@ -21,4 +23,3 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kienit2407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
-# Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
