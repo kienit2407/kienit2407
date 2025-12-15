@@ -1,1 +1,47 @@
+<svg width="900" height="180" viewBox="0 0 900 180"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#341D5C"/>
+      <stop offset="100%" stop-color="#251E4C"/>
+    </linearGradient>
+
+    <clipPath id="avatarClip">
+      <circle cx="110" cy="90" r="34"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="180" rx="18" fill="url(#bg)"/>
+
+  <!-- Decor -->
+  <image x="0" y="0" width="900" height="180"
+    opacity="0.22"
+    preserveAspectRatio="xMidYMid slice"
+    xlink:href="https://raw.githubusercontent.com/kienit2407/kienit2407/main/assets/images/asset1.png" />
+
+  <!-- Avatar -->
+  <image x="76" y="56" width="68" height="68"
+    clip-path="url(#avatarClip)"
+    preserveAspectRatio="xMidYMid slice"
+    xlink:href="https://raw.githubusercontent.com/kienit2407/kienit2407/main/assets/images/avatar.png" />
+
+  <!-- Frame -->
+  <image x="52" y="32" width="120" height="120"
+    preserveAspectRatio="xMidYMid meet"
+    xlink:href="https://raw.githubusercontent.com/kienit2407/kienit2407/main/assets/images/av6.png" />
+
+  <!-- Text -->
+  <text x="190" y="88" font-size="28" font-weight="800"
+    fill="#A15EAB" font-family="Arial, sans-serif">
+    Trung Kiên (Kin)
+  </text>
+
+  <text x="190" y="124" font-size="16"
+    fill="#FFFFFF" opacity="0.9" font-family="Arial, sans-serif">
+    trungkien24072005@gmail.com
+  </text>
+</svg>
 
