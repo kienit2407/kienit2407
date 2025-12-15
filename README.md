@@ -2,7 +2,6 @@
 # Hi There 👋
 > I'm Trung Kien. Welcome to my Github Profile. But just call me is Kin for proximity to u. Right!
 ## 🌐 Socials:
-### You can hit me up via:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kin240705?locale=vi_VN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trungkien24072005@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,6 +11,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 ### 🏆 Spetific My GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kienit2407&show_icons=true&theme=radical)
-
+<div align=center>
+  <a href="#" title="Trung Kiên">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienit2407&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kienit2407&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
+</div>
 # Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
