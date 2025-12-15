@@ -1,76 +1,7 @@
 
 # Hii There 👋. I'm FullStack Developer
 > I'm Trung Kien. Welcome to my Github Profile. But just call me is Kin for proximity to u. Right!
-<div style="
-  display:flex;
-  align-items:center;
-  gap:16px;
-  padding:16px;
-  border-radius:14px;
-  border:1px solid rgba(255,255,255,0.12);
-  background: linear-gradient(135deg, #341D5C, #251E4C);
-  color:white;
-  position:relative;
-  overflow:hidden;
-">
- <!-- Background decoration (nếu muốn) -->
-  <img
-    src="assets/images/asset1.png"
-    alt="ádas"
-    style="
-      position:absolute;
-      inset:0;
-      width:100%;
-      height:100%;
-      object-fit:fill;
-      z-index:;
-    "
-  />
-
-  <div style="position:relative; width:72px; height:72px; flex:0 0 72px;">
-    <!-- Avatar -->
-    <img
-      src="assets/images/avatar.png"
-      alt="Kin"
-      style="
-        width:60px; height:60px;
-        border-radius:9999px;
-        object-fit:cover;
-        border:2px solid rgba(255,255,255,0.15);
-        position:absolute;
-        top:50%; left:50%;
-        transform:translate(-50%,-50%);
-        z-index:1;
-      "
-    />
-    <!-- Frame (PNG trong suốt) -->
-    <img
-      src="assets/images/av6.png"
-      alt="Avatar Frame"
-      style="
-        width:110px; height:120px;
-        position:absolute;
-        top:50%; left:50%;
-        transform:translate(-50%,-50%);
-        z-index:2;
-        pointer-events:none;
-      "
-    />
-  </div>
-
-  <!-- Right: Name + Email -->
-  <div style="z-index:2;">
-    <div style="font-size:18px; font-weight:800; color:#A15EAB; margin-bottom:4px;">
-      Trung Kiên (Kin)
-    </div>
-    <div style="font-size:12px; opacity:0.85;">
-        trungkien24072005@gmail.com
-      </a>
-    </div>
-  </div>
-
-</div>
-
+<img src="assets/images/card.svg" width="100%" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kin240705?locale=vi_VN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trungkien24072005@gmail.com) 
