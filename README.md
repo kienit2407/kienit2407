@@ -1,7 +1,12 @@
 
 # Hii There 👋. I'm FullStack Developer
 > I'm Trung Kien. Welcome to my Github Profile. But just call me is Kin for proximity to u. Right!
+### Vengeance
 <img src="assets/images/card.svg" width="100%" />
+<h3>Under Sea</h3>
+<img src="assets/images/card_under_sea.svg" width="100%" />
+<h3>Frops</h3>
+<img src="assets/images/card_frogs.svg" width="100%" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kin240705?locale=vi_VN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trungkien24072005@gmail.com) 
