@@ -14,7 +14,7 @@
 ### Vengeance
 <img src="assets/images/card.svg" width="100%" />
 <details>
-<summary>Xem thêm</summary>
+<summary>Learn more</summary>
   <br>
 <h3>Under Sea</h3>
 <img src="assets/images/card_under_sea.svg" width="100%" />
