@@ -1,10 +1,10 @@
 
 # Hii There 👋. I'm FullStack Developer
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=9B60F7&center=true&width=435&lines=Xin+ch%C3%A0o+m%C3%ACnh+l%C3%A0+Sinh+vi%C3%AAn+n%C4%83m+cu%E1%BB%91i;M%C3%ACnh+chuy%C3%AAn+v%E1%BB%81+m%E1%BA%A3ng+FullStack;M%C3%ACnh+%C4%91ang+t%C3%ACm+hi%E1%BB%83u+v%E1%BB%81+mang+AI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&pause=1000&color=7F3683&center=true&width=435&lines=Hi+there%2C+I+am+a+final-year+student.;I+specialize+in+Full+Stack+development;I'm+currently+exploring+the+field+of+AI"/>
 </div>
 
-#### 🍀I'm Trung Kien. Welcome to my Github Profile. But just call me is Kin for proximity to u. Right!
+#### 🍀 I'm Trung Kien. Welcome to my Github Profile. But just call me is Kin for proximity to u. Right!
 
 ### Vengeance
 <img src="assets/images/card.svg" width="100%" />
