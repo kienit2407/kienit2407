@@ -43,7 +43,7 @@
 ## 💻 Tech Stack:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,css,html,js,kotlin,cpp,c,ts,vercel,firebase,flutter,npm,nestjs,nextjs,nodejs,react,redux,vite,yarn,mongodb,mysql,redis,supabase,sqlite,figma,git,github,docker,eslint,postman,express,githubactions,tailwind&perline=15" />
+    <img src="https://skillicons.dev/icons?i=dart,css,html,js,kotlin,cpp,c,ts,vercel,firebase,flutter,npm,nestjs,nextjs,nodejs,react,redux,vite,yarn,mongodb,mysql,redis,supabase,sqlite,figma,git,github,docker,postman,express,githubactions,tailwind&perline=15" />
   </a>
   
   <br />
