@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://zalo.me/SDT_CUA_BAN">
+  <a href="https://zalo.me/0971161803">
     <img src="https://img.shields.io/badge/Zalo-%230068FF.svg?logo=zalo&logoColor=white" alt="Zalo"/>
   </a>
 </div>
