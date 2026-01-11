@@ -67,13 +67,13 @@
   <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
-### 🏆 Spetific My GitHub
+## 🏆 Spetific My GitHub
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienit2407&bg_color=1a1b27&color=628fdb&line=70a5fd&point=be91f2&area=true&hide_border=true" width="95%"/>
 </div>
@@ -82,9 +82,9 @@
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
 
+## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
   
----
-## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
