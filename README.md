@@ -78,7 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienit2407&bg_color=1a1b27&color=628fdb&line=70a5fd&point=be91f2&area=true&hide_border=true" width="95%"/>
 </div>
 <div align="center">
- <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
