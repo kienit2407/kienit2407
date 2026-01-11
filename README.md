@@ -79,14 +79,13 @@
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kienit2407&theme=tokyonight" width="100%" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kienit2407&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kienit2407&theme=tokyonight" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
-  </div>
+</div>
   
 ---
-  ## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
+## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
