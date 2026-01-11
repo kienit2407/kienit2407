@@ -1,0 +1,25 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Tự động chạy mỗi 24 giờ
+    - cron: "* */24 * * *"
+  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Thay tên secret nếu bạn đặt tên khác ở Bước 2
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main" # Nhánh chính của bạn (thường là main hoặc master)
+          UTC_OFFSET: 7 # Giờ Việt Nam là +7
+          AUTO_PUSH: true # Tự động lưu ảnh vào repo
