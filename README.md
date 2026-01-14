@@ -75,7 +75,7 @@
 
 ---
 <h2>
-  🏆 Spetific My GitHub
+  🏆 My GitHub Details
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqdGM4NjFlZjV3Mm9vdzI5bzc4ajljdWtxbTR3am83MndwaTF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif" width="30" />
 </h2>
 <div align="center">
