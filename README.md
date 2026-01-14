@@ -1,13 +1,14 @@
 
-# Hii There 👋. I'm FullStack Developer
+# Hii There 👋🏻. I'm FullStack Developer
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&pause=1000&color=7F3683&center=true&random=true&width=435&lines=%F0%9F%8D%80+Hi+there%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+a+final-year+student.;%F0%9F%A5%87+I+specialize+in+Full+Stack+development;%F0%9F%A4%96+I'm+currently+exploring+the+field+of+AI"/>
 </div>
 
-<h4>
-  🍀 I'm Trung Kien. Welcome to my Github Profile. But just call me Kin for proximity to u. Right! 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RyaWI4OTd6NWo2M3dzeDI0MzM4YnkwZzN1ODByc3BqMWZuOXFxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="45" />
-</h4>
+<h3>
+  🍀 I'm Trung Kien. Welcome to my Github Profile. But just call me Kin for proximity to u. Right!
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RyaWI4OTd6NWo2M3dzeDI0MzM4YnkwZzN1ODByc3BqMWZuOXFxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="45" align="middle" />
+</h3>
+
 
 ---
 ## 🏷️ My preronal tags:
@@ -40,7 +41,7 @@
 
 <br/>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack: 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,css,html,js,kotlin,cpp,c,ts,vercel,firebase,flutter,npm,nestjs,nextjs,nodejs,react,redux,vite,yarn,mongodb,mysql,redis,supabase,sqlite,figma,git,github,docker,postman,express,githubactions,tailwind&perline=15" />
@@ -73,7 +74,10 @@
 </div>
 
 ---
-## 🏆 Spetific My GitHub
+<h2>
+  🏆 Spetific My GitHub
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqdGM4NjFlZjV3Mm9vdzI5bzc4ajljdWtxbTR3am83MndwaTF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif" width="30" />
+</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienit2407&bg_color=1a1b27&color=628fdb&line=70a5fd&point=be91f2&area=true&hide_border=true" width="95%"/>
 </div>
@@ -81,8 +85,10 @@
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
-
-## Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u ❤️. Goodbye!. Catch you guy next time 👋
+<h2> 🛰️ Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk3amdmeDlvamJoeWpxZjN0b3MyeGUxbTF6ODEyMjJyajdzbjFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H2u46cKU3VaXht6Iv9/giphy.gif" width="45" align="middle" />
+  . Goodbye👋🏻. Catch you guy next time  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpzczQ1eGl3bml6amJiY2tzaWdvYm9xcDRhZmsyeTg4Ym9oMGxsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelWewgR6CpNK/giphy.gif" width="45" align="middle" />
+</h2>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
