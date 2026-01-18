@@ -85,10 +85,10 @@
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
-<h2> 🛰️ Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u
+<h1> 🛰️ Thank you watched here. Dear send to u a huge thanks. I'm truely, grateful to u
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk3amdmeDlvamJoeWpxZjN0b3MyeGUxbTF6ODEyMjJyajdzbjFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H2u46cKU3VaXht6Iv9/giphy.gif" width="45" align="middle" />
   . Goodbye👋🏻. Catch you guy next time  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpzczQ1eGl3bml6amJiY2tzaWdvYm9xcDRhZmsyeTg4Ym9oMGxsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelWewgR6CpNK/giphy.gif" width="45" align="middle" />
-</h2>
+</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
