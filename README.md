@@ -18,7 +18,7 @@
 <summary>Learn more</summary>
   <br>
 <h3>Under Sea</h3>
-<img src="assets/images/card_under_sea.svg" width="100%" />
+<img src="assets/images/card_test.svg" width="100%" />
 <h3>Frops</h3>
 <img src="assets/images/card_frogs.svg" width="100%" />
 </details>
