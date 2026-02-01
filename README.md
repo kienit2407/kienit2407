@@ -44,12 +44,12 @@
 ## 💻 Tech Stack: 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,css,html,js,kotlin,cpp,c,ts,vercel,firebase,flutter,npm,nestjs,nextjs,nodejs,react,redux,vite,yarn,mongodb,mysql,redis,supabase,sqlite,figma,git,github,docker,postman,express,githubactions,tailwind&perline=15" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dart,css,html,js,kotlin,cpp,c,ts,vercel,firebase,flutter,npm,nestjs,nextjs,nodejs,react,redux,vite,yarn,mongodb,mysql,redis,supabase,sqlite,postgres,figma,git,github,docker,postman,express,githubactions,tailwind&perline=15" />
+</a>
   
   <br />
   <br />
-
+  
   <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
