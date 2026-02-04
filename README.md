@@ -11,7 +11,7 @@
 
 
 ---
-## 🏷️ My preronal tags:
+## 🏷️ My personal tags:
 ### Vengeance
 <img src="assets/images/card.svg" width="100%" />
 <details>
